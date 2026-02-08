@@ -1,0 +1,6 @@
+back.jpg
+enemy.png
+exit.png
+libgdx.png
+player.png
+stone.png
